@@ -13,3 +13,5 @@ Model get saved in model.sav file.
 
 ### Main.ipynb
 This is the notebook which do some of the analysis based on gender and police investigation and other parameters.
+
+![alt text](https://github.com/MachineLearning-Nerd/Time-series-analysis-of-Crime-data-in-UK/blob/master/Images/NotebookOutput.png)
